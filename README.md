@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Soham Mandal</h1>  
-- 📫 Reach me [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohammandal49@gmail.com) 
+- 📫 Reach me [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohammandal49@gmail.com)  
 
 I'm currently learning LLM &  GenAI. I worked as a project intern at NIT Durgapur.
 
@@ -14,8 +14,6 @@ I'm currently learning LLM &  GenAI. I worked as a project intern at NIT Durgapu
 ![](https://github-readme-stats.vercel.app/api?username=Carnage203&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Carnage203&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carnage203&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Carnage203&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -25,3 +23,5 @@ I'm currently learning LLM &  GenAI. I worked as a project intern at NIT Durgapu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Carnage203&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
