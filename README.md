@@ -1,6 +1,7 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Soham Mandaly</h1>
+<h1 align="center">Hi 👋, I'm Soham Mandal</h1>  
 - 📫 How to reach me **sohammandal49@gmail.com**
+
 I'm currently learning LLM &  GenAI. I worked as a project intern at NIT Durgapur.
 
 
